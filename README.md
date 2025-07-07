@@ -1,4 +1,4 @@
-# Parking Pricing Models Analysis
+# Dynamic Pricing for Urban Parking Lots
 
 ## Introduction
 
